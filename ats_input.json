@@ -1,0 +1,11 @@
+ 
+{
+  "applicant_name": "Jane Doe",
+  "contact_info": {
+    "email_address": "jane.doe@example.com",
+    "phone_number": "1 (555) 019-2834"
+  },
+  "current_role": "Software Engineer",
+  "company_name": "Tech Corp",
+  "skills_list": ["Python", "AWS", "SQL"]
+}
